@@ -20,8 +20,8 @@ $(document).ready(function(){
 
 
     $(".slide#first").backstretch("images/1.jpg");
-    $(".slide#sec").backstretch("images/2.jpg");
-    $(".slide#thirth").backstretch("images/3.jpg");
+    $(".slide#sec").backstretch("images/macromedia.jpg");
+    $(".slide#thirth").backstretch("images/photoshop.jpg");
 
     $('.slide .backstretch img').on('dragstart', function(event) { event.preventDefault(); });
 

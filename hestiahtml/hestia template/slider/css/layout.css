@@ -943,6 +943,13 @@ ul.slimmenu.collapsed li > ul {
 	display:inline-block;
 	float:left;
 }
+.portfolio-box2{
+	position: relative;
+	width: 50%;
+	overflow:hidden;
+	display:inline-block;
+	float:left;
+}
 .portfolio-box img{ 
 	width: 100%;
 	height:auto;
